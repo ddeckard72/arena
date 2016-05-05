@@ -6,5 +6,6 @@ class Player
 	direction = 0
 	current_weapon = 0
 	weapons = Array.new(10)
+	rate = 0
 	
 end
